@@ -1,0 +1,23 @@
+{
+	"Includes": [
+		"cfg/BaseGameConfig.json"
+	],
+    "SectionGroups": [
+		{
+            "Sections": {
+				"Sentences": {
+					"FileNames": ["sound/bs_sentences.json"]
+				},
+                "GlobalModelReplacement": {
+                    "FileNames": ["cfg/maps/blueshift/models.json"]
+                },
+                "GlobalSentenceReplacement": {
+                    "FileNames": ["cfg/maps/blueshift/sentences.json"]
+                },
+                "HudColor": "95 95 255",
+				"CrosshairColor": "255 160 0",
+                "SuitLightType": "flashlight"
+            }
+        }
+    ]
+}
