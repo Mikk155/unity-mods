@@ -1,0 +1,22 @@
+{
+	"Includes":
+    [
+		"cfg/BaseGameConfig.json"
+	],
+    "SectionGroups":
+    [
+        {
+            "Sections":
+            {
+				"Sentences":
+                {
+					"FileNames": [ "sound/tunnelvision/sentences.json" ]
+				},
+				"SpawnInventory":
+                {
+					"HasSuit": true
+				}
+            }
+        }
+    ]
+}
