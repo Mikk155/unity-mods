@@ -1,0 +1,22 @@
+{
+	"Includes":
+    [
+		"cfg/BaseGameConfig.json"
+	],
+    "SectionGroups":
+    [
+        {
+            "Sections":
+            {
+				"Sentences":
+                {
+					"FileNames": [ "sound/deliverance/sentences.json" ]
+				},
+				"SpawnInventory":
+                {
+					"HasSuit": true
+				}
+            }
+        }
+    ]
+}
